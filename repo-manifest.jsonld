@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/coleifer/ukt/commit/d31d5a4586479567398a7896c709cb702e318cdf",
       "git:hexsha": "d31d5a4586479567398a7896c709cb702e318cdf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:57:33.580498+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/ukt/commit/93710a9478b2ca2d564648c8aef3245bb964666a",
